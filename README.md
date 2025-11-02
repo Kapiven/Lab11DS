@@ -14,6 +14,8 @@ El objetivo principal es **identificar patrones lingüísticos y medir el desemp
 ---
 
 ## Dataset
+Repositorio con el dataset utilizado: https://github.com/Kapiven/lab5DS.git
+
 El dataset utilizado contiene tweets clasificados como:
 - **1 → Tweets relacionados con desastres**
 - **0 → Tweets no relacionados**
