@@ -83,15 +83,12 @@ streamlit run app.py
 
 ```
 
-```markdown
 ## Vista del Dashboard
 
-![Vista general](assets/dash1.jpeg)
-![Vista general](assets/dash2.jpeg)
-![Vista general](assets/dash3.jpeg)
-![Vista general](assets/dash4.jpeg)
-![Vista general](assets/dash5.jpeg)
-![Vista general](assets/dash6.jpeg)
-![Vista general](assets/dash7.jpeg)
-
-```
+![Vista general](assets/dash1.jpg)
+![Vista general](assets/dash2.jpg)
+![Vista general](assets/dash3.jpg)
+![Vista general](assets/dash4.jpg)
+![Vista general](assets/dash5.jpg)
+![Vista general](assets/dash6.jpg)
+![Vista general](assets/dash7.jpg)
